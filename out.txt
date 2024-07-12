@@ -1,0 +1,8 @@
+Operation: Run
+Input File: test.iexe, Output File: 
+
+000 002 push 0
+[日本語!]
+002 002 store 0
+
+004 003 ret 

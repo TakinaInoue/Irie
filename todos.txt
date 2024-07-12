@@ -1,0 +1,37 @@
+ ++++++++++++++++++++++++++++                    @@@@                 
+ ++++++++++++++++++++++++++++                    @@@@@@@@@@@          
+ ++++++**+++++++++**+++++++++ @@@        @@@        @@@@@@@@          
+ +++++#@%*+++++++#@%*++++++++ @@@@       @@@@                         
+ +++++#@%*+++++++++#%%*++++++ @@@@       @@@@                         
+ +++++#@%*++++++++++*#%%*++++ @@@@       @@@@  @@@@@@@@@@@@@@@@@      
+ +++++#@%*+++++++++++*%@*++++ @@@@       @@@@  @@@@@@@@@@@@@@@@@      
+ +++++#@%*+++++++++++*%@*++++ @@@@@@     @@@@           @@@@@@        
+ +++++*%##*++++++++++*##*++++ @@@@@@     @@@@         @@@@@@          
+ +++++++#@%*+++++++++++++++++ @@@@      @@@@@        @@@@@@@@         
+ +++++++#@%*+++%@#+++++++++++          @@@@         @@@@  @@@@        
+ ++++++++**%@@%#*++++++++++++          @@@@      @@@@@@   @@@@        
+ ++++++++++*****+++++++++++++       @@@@@@     @@@@@@      @@@@@@@@   
+ ++++++++++++++++++++++++++++     @@@@@@       @@@@          @@@@@    
+ ++++++++++++++++++++++++++++     @@@@                                
+
+ToDDoS ----
+- code function calls [DONE]
+- code native function calls [DONE as interrupts]
+- code return statement [DONE]
+- code ++ and -- (please! prioritize these!) [DONE]
+- code import statements [DONE]
+- add support for "unknown" [DONE]
+- code support for multiple values in a parameter // unsure of how to code this...
+- for in and for from loops 
+- switch statements
+- break and continue
+- function return type inference
+- code proper object memory management
+- code green threads
+- code async
+- do ado's completer idea
+
+add easter egg idea from Illya:
+i have a better idea
+allow to read schrodinger variables before they are assigned a value 
+in which case they get assigned one of the values they could have possibly been assigned 

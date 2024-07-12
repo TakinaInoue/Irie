@@ -1,0 +1,16 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/irie
+irie.so
+irie.dylib
+irie.dll
+irie.a
+irie.lib
+irie-test-*
+*.exe
+*.pdb
+*.o
+*.obj
+*.lst

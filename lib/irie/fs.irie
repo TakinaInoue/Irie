@@ -1,0 +1,15 @@
+function exists(filename : string) : bool {
+    return IVM_FILE_STAT(filename, 0);
+}
+
+function isFile(filename : string) : bool {
+    return IVM_FILE_STAT(filename, 1);
+}
+
+function isDirectory(filename : string) : bool {
+    return IVM_FILE_STAT(filename, 2);
+}
+
+function getFileSize(filename : string) : int {
+    return IVM_FILE_STAT(filename, 3);
+}

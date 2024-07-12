@@ -1,0 +1,10 @@
+import irie.fs
+import irie.stdio
+
+function _start() : void {
+    while (true) {
+        println("Say something");
+        var smh = readln();
+        println(smh + " uwu");
+    }
+}

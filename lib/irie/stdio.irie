@@ -1,0 +1,12 @@
+function readln() : string {
+    return IVM_STDIN_READLN();
+}
+
+function print(value : unknown) : void {
+    IVM_STDOUT_Write(value);
+}
+
+function println(value : unknown) : void {
+    IVM_STDOUT_Write(value);
+    IVM_STDOUT_Write('\n');
+}
